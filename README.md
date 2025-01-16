@@ -15,4 +15,4 @@ Unidade 1: Fundamentos de Amostragem e Distribuição
 Unidade 2: Regressão Linear Simples e Múltipla
 Unidade 3: Modelos Lineares Generalizados
 
-**Atividades realizadas por Jessica Silva, no Google Colab, com a linguagem de programação Python.**
+*Atividades realizadas por Jessica Silva, no Google Colab, com a linguagem de programação Python.*
